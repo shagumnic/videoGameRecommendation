@@ -8,6 +8,10 @@ A content-based filtering recommendation system for Video Games:
 # IMPORTANT!!! :
 - Because of Github limited file size (<100mb), the recommend_cosine.npy file could not be uploaded. Therefore, user will have to run the build_recommendation_model.py to generate recommend_indices.csv and recommend_cosine.npy first before running the recommendation.exe file
 
+# How to run:
+- run build_recommendation_model.py after user has install all packages in the requirements.txt to generate the model for recommendation in two file (recommend_indices.csv and recommend_cosine.npy)
+- run recommendation.exe
+
 # Tool use:
 - Python
 - tkinter to create the GUI for the user.
