@@ -15,4 +15,5 @@ A content-based filtering recommendation system for Video Games:
 - numpy library to convert the data from csv file to matrix.
 - scikit-learn to use the Count Vectorizer transformation and cosine similarity
 - rake-nltk to take out key words from the game's description
+- re library to use regex to remove special character from data.
 - pyinstaller convert it into an .exe file
